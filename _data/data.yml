@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: nitesh.khadka@student.sust.edu
     phone: +8801749637377
-    website: blog.webjeda.com #do not add http://
+    website:  #do not add http://
     linkedin: niteshkhadka
     github: niksust
     gitlab:
@@ -37,36 +37,28 @@ sidebar:
         level: Professional
         
     interests:
-      - item: Climbing
+      - item: Table Tennis
         link:
 
-      - item: Indoor Sports
+      - item: Sports
         link:
 
-      - item: Cooking
+      - item: Music
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Looking for a career to show the best of my ability, analytic skills and techniques to enhance my knowledge as well as contribute to my organization to the best of my potential.
 
-      Second paragraph if required.
+      A data enthusiast and progressive software engineer.
 
 education:
     - degree: BSc in Computer Science and Engineering
       university: Shahjalal University of Science and Technology
       time: 2014 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Currently studying here and a University Undergraduate Reasearcher
 
           - Bullet point
           - Bullet point 
@@ -75,14 +67,12 @@ education:
       university: Cambridge University
       time: 2010 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Completed my A levels in Computing, Mathematics, Physics and General Paper
 
-          - Bullet point
-          - Bullet point 
+          - Computing 9691: AS and A2 Level
+          - Mathematics 9709: Pure Mathematics(P1), Mechanics(M1); Pure Mathematics(P3), Statistics(S1)
+          - Physics 9702: AS and A2 Level
+          - General Paper 8004: AS Level
 
 experiences:
     - role: Lead Developer
@@ -180,22 +170,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: OOP
         level: 98%
 
       - name: Javascript & jQuery
         level: 98%
 
-      - name: Angular
+      - name: SQL
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Linux
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Sketch & Graphics
         level: 60%
 
 footer: >
