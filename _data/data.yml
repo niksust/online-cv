@@ -126,9 +126,9 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: BestBuy
+        link: "https://github.com/niksust/WebBestBuy"
+        tagline: "A responsive online shooping application that uses JavaEE, JSP, Servlet, HTML, JS and MySQL. This project is done using Java Spring MVC Framework. designed to help startups promote, market and sell their products."
 
       - title: DevStudio
         link: "#"
@@ -171,13 +171,13 @@ skills:
 
     toolset:
       - name: OOP
-        level: 98%
+        level: 80%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 75%
 
       - name: SQL
-        level: 98%
+        level: 80%
 
       - name: HTML5 & CSS
         level: 95%
